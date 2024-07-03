@@ -18,8 +18,8 @@ Actively seeking research assistant positions for starting Fall 2024. Also, Ph.D
 News
 ======
 
-2024.07.01 | Congradulations on our paper acceptance on ECCV 2024!
-2024.06.20 | Congradulations on our paper acceptance on ICML 2024 workshop NextGenAISafety!
+2024.07.01 | Congratulations on our paper acceptance on ECCV 2024!
+2024.06.20 | Congratulations on our paper acceptance on ICML 2024 workshop NextGenAISafety!
 2024.05.11 | Graduated from University of Wisconsin - Madison with B.S. with Honor in the Major, Computer Science!
 2024.04.19 | Presented my senior honor thesis @[Senior Honors Thesis Symposium 2024](https://honors.ls.wisc.edu/event/senior-honors-thesis-symposium-2024/)!
 
