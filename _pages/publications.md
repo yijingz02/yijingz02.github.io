@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Yijing Zhang**, Frederic Sala. *Methods for Domain-specific Fine-tuning for Generative Models*. Senior honor thesis for Honors in the Major, L&S Honors Program at University of Wisconsin - Madison. \[[Paper](files/Thesis.pdf)\]
+- Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. *Is Free Self-Alignment Possible?* Preprint. In submission to Neural Information Processing Systems(NeurIPS) 2024. \[[Paper](https://arxiv.org/abs/2406.03642)\]
+- Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. *Can Language Models Safeguard Themselves, Instantly and For Free?* Accepted by International Conference on Machine Learning(ICML) 2024 Workshop on NextGenAISafety.
+- Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. *Audio-Guided Visual Animation*. Accepted by European Conference on Computer Vision(ECCV) 2024.  \[[Paper](https://arxiv.org/abs/2403.05659)\]
