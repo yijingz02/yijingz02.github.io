@@ -18,8 +18,9 @@ Actively seeking research assistant positions for starting Fall 2024. Also, Ph.D
 News
 ======
 
-2024.07.01 | Congratulations on our paper acceptance on ECCV 2024!
-2024.06.20 | Congratulations on our paper acceptance on ICML 2024 workshop [NextGenAISafety](https://icml-nextgenaisafety.github.io/)!
+2024.08.12 | Congratulations on our [paper](https://arxiv.org/abs/2403.05659) accepted for oral presentation on ECCV 2024!
+2024.07.01 | Congratulations on our [paper](https://arxiv.org/abs/2403.05659) acceptance on ECCV 2024!
+2024.06.20 | Congratulations on our [paper](https://openreview.net/pdf?id=ALRWSxT1rl) acceptance on ICML 2024 workshop [NextGenAISafety](https://icml-nextgenaisafety.github.io/)!
 2024.05.11 | Graduated from University of Wisconsin - Madison with B.S. with Honor in the Major, Computer Science!
 2024.04.19 | Presented my senior honor thesis @[Senior Honors Thesis Symposium 2024](https://honors.ls.wisc.edu/event/senior-honors-thesis-symposium-2024/)!
 
@@ -31,7 +32,7 @@ Publications
 [Methods for Domain-specific Fine-tuning for Generative Models](files/Thesis.pdf)	| **Yijing Zhang**, Frederic Sala. <br> *Senior honor thesis, L&S Honors Program, University of Wisconsin - Madison.*
 [Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> *Accepted by ECCV 2024.*
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Preprint. In submission to NeurIPS 2024.*
-Can Language Models Safeguard Themselves, Instantly and For Free? | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
+[Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
 
 <br>
 
