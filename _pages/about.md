@@ -80,7 +80,6 @@ Supervised by [Prof. Bach](https://cs.brown.edu/people/sbach/index.html) and [Pr
 
 Work Experience
 ======
-<img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **Research Assistant** <br> Sep.2024 - Present
 
 <img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **CS400 Peer Mentor** <br> Jan.2022 - May.2024
 
