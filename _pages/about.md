@@ -34,7 +34,6 @@ Publications
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Preprint. In submission to ICLR 2024.*
 [Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
 Personalize LLM: Fake it and Then Align. | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *In Process. Planned submission to ICML 2025*
-<br>
 
 Education
 ======
