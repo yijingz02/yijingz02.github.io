@@ -11,7 +11,7 @@ I graduated from University of Wisconsin - Madison in May, 2024 with a B.S degre
 
 My research interest is in machine learning. Specifically, I am interested in data-efficient models and robust language models.
 
-Actively seeking research assistant positions for starting Fall 2024. Also, Ph.D. applicant for Fall 2025.
+Ph.D. applicant for Fall 2025.
 
 <br>
 
@@ -31,9 +31,9 @@ Publications
 
 [Methods for Domain-specific Fine-tuning for Generative Models](files/Thesis.pdf)	| **Yijing Zhang**, Frederic Sala. <br> *Senior honor thesis, L&S Honors Program, University of Wisconsin - Madison.*
 [Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> *Accepted for oral presentation by ECCV 2024. [[Code]](https://github.com/lzhangbj/ASVA)*
-[Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Preprint. In submission to NeurIPS 2024.*
+[Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Preprint. In submission to ICLR 2024.*
 [Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
-
+Personalize LLM: Fake it and Then Align. | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *In Process. Planned submission to ICML 2025*
 <br>
 
 Education
@@ -63,14 +63,23 @@ Related Topic: Computer vision, Generative models, Audio-to-Video.
 ## Project 3: AlignEZ
 
 Supervised by [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), we worked on self-aligning models without further training. We proposed AlignEZ that uses (1) self-generated preference data; (2) representation editing to provide nearly cost-free alignment.
-Resulting paper is in submission to NeurIPS 2024. Now taking a lead role for the next phase of this project.
+Resulting paper is in submission to ICLR 2025.
 
 Related Topic: NLP, Alignment. 
+
+## Project 4: P-AlignEZ (Personalized AlignEZ)
+
+Supervised by [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), we worked on utilizing an AlignEZ approach for personalizing LLM. We found that P-ALignEZ is able to perform model larges-scale personalization for multi-users using low resource. Planned submission to ICML 2025.
+
+## Project 5: On Generating Better Quality Instruction Tuning Data
+
+Supervised by [Prof. Bach](https://cs.brown.edu/people/sbach/index.html) and [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), we focused on research for methods for generating better quality instruction tuning dataset from unannotated text for model tuning. 
+
 
 <br>
 
 Work Experience
 ======
-
+<img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **Research Assistant** <br> Sep.2024 - Present
 <img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **CS400 Peer Mentor** <br> Jan.2022 - May.2024
 <img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **[WISCERS Program](https://wiscers.cs.wisc.edu/home) - Summer Research Intern** <br> May. 2022 - Aug. 2022
