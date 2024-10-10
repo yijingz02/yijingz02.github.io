@@ -33,7 +33,7 @@ Publications
 [Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> *Accepted for oral presentation by ECCV 2024. [[Code]](https://github.com/lzhangbj/ASVA)*
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Preprint. In submission to ICLR 2024.*
 [Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
-Personalize LLM: Fake it and Then Align. | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *In Process. Planned submission to ICML 2025*
+Personalize LLM: Fake it and Then Align. | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *In Process. Planned submission to NAACL 2025*
 
 Education
 ======
