@@ -17,6 +17,7 @@ Ph.D. applicant for Fall 2025.
 
 News
 ======
+
 2024.10.15 | First first-author conference submission to NAACL 2024! 
 2024.08.12 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) accepted for oral presentation on ECCV 2024!
 2024.07.01 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) acceptance on ECCV 2024!
