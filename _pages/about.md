@@ -17,7 +17,7 @@ Ph.D. applicant for Fall 2025.
 
 News
 ======
-
+2024.10.15 | First first-author conference submission to NAACL 2024! 
 2024.08.12 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) accepted for oral presentation on ECCV 2024!
 2024.07.01 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) acceptance on ECCV 2024!
 2024.06.20 | Congratulations on [our paper](https://openreview.net/pdf?id=ALRWSxT1rl) acceptance on ICML 2024 workshop [NextGenAISafety](https://icml-nextgenaisafety.github.io/)!
@@ -29,11 +29,11 @@ News
 Publications
 ======
 
-[Methods for Domain-specific Fine-tuning for Generative Models](files/Thesis.pdf)	| **Yijing Zhang**, Frederic Sala. <br> *Senior honor thesis, L&S Honors Program, University of Wisconsin - Madison.*
+Personalize LLM: Fake it and Then Align. | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *In submission to NAACL 2025*
 [Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> *Accepted for oral presentation by ECCV 2024. [[Code]](https://github.com/lzhangbj/ASVA)*
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Preprint. In submission to ICLR 2024.*
 [Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
-Personalize LLM: Fake it and Then Align. | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *In Process. Planned submission to NAACL 2025*
+[Methods for Domain-specific Fine-tuning for Generative Models](files/Thesis.pdf)	| **Yijing Zhang**, Frederic Sala. <br> *Senior honor thesis, L&S Honors Program, University of Wisconsin - Madison.*
 
 Education
 ======
