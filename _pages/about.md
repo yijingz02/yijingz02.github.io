@@ -31,7 +31,7 @@ Publications
 ======
 
 Personalize LLM: Fake it and Then Align. | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *In submission to NAACL 2025*
-[Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> * **Oral** presentation by ECCV 2024. [[Code]](https://github.com/lzhangbj/ASVA)*
+[Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> **Oral** *presentation by ECCV 2024.* [[Code]](https://github.com/lzhangbj/ASVA)
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Preprint. In submission to ICLR 2024.*
 [Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
 [Methods for Domain-specific Fine-tuning for Generative Models](files/Thesis.pdf)	| **Yijing Zhang**, Frederic Sala. <br> *Senior honor thesis, L&S Honors Program, University of Wisconsin - Madison.*
