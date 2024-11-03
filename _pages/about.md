@@ -19,7 +19,7 @@ News
 ======
 
 2024.10.15 | First first-author conference submission to NAACL 2024! 
-2024.08.12 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) accepted for oral presentation on ECCV 2024!
+2024.08.12 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) accepted as an **oral** presentation on ECCV 2024!
 2024.07.01 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) acceptance on ECCV 2024!
 2024.06.20 | Congratulations on [our paper](https://openreview.net/pdf?id=ALRWSxT1rl) acceptance on ICML 2024 workshop [NextGenAISafety](https://icml-nextgenaisafety.github.io/)!
 2024.05.11 | Graduated from University of Wisconsin - Madison with B.S. with Honor in the Major, Computer Science!
