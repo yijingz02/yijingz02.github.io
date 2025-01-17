@@ -35,7 +35,7 @@ Personalize Your LLM: Fake it then Align it.| **Yijing Zhang**, Dyah Adila, Chan
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Preprint. In submission to ICLR 2024.*
 [Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
 [Methods for Domain-specific Fine-tuning for Generative Models](files/Thesis.pdf)	| **Yijing Zhang**, Frederic Sala. <br> *Senior honor thesis, L&S Honors Program, University of Wisconsin - Madison.*
-OpenASVA: Open-world Audio-Synchronized Visual Animation with Increased Controllability | Lin Zhang, Yufan Zhou, Shentong Mo, Cheng-En Wu, Yibing Wei, **Yijing Zhang**, Jinhong Lin, Ruiyi Zhang, Tong Sun, Pedro Morgado. <br> Submission to CVPR 2025.
+OpenASVA: Open-world Audio-Synchronized Visual Animation with Increased Controllability | Lin Zhang, Yufan Zhou, Shentong Mo, Cheng-En Wu, Yibing Wei, **Yijing Zhang**, Jinhong Lin, Ruiyi Zhang, Tong Sun, Pedro Morgado. <br> In process.
 
 Education
 ======
