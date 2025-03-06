@@ -18,7 +18,7 @@ Ph.D. applicant for Fall 2025.
 News
 ======
 
-2025.01.22 | Congratulations on [our paper](https://openreview.net/attachment?id=RIrZZGzQdm&name=pdf) acceptance by NAACL 2025 Findings!
+2025.01.22 | Congratulations on [our paper](https://arxiv.org/abs/2503.01048) acceptance by NAACL 2025 Findings!
 2024.10.15 | First first-author conference submission to NAACL 2025! 
 2024.08.12 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) accepted as an **oral** presentation on ECCV 2024!
 2024.07.01 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) acceptance on ECCV 2024!
@@ -31,7 +31,7 @@ News
 Publications
 ======
 
-[Personalize Your LLM: Fake it then Align it.](https://openreview.net/attachment?id=RIrZZGzQdm&name=pdf) | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *Accepted by NAACL 2025 Findings.*
+[Personalize Your LLM: Fake it then Align it.](https://arxiv.org/abs/2503.01048) | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *Accepted by NAACL 2025 Findings.*
 [Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> **Oral** *presentation by ECCV 2024.* [[Code]](https://github.com/lzhangbj/ASVA)
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *MINT@NeurIPS2024 Workshop. In submission to ICML 2025.*
 [Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *Accepted by ICML 2024 Workshop on NextGenAISafety.*
