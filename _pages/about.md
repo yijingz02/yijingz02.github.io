@@ -11,7 +11,7 @@ I graduated from University of Wisconsin - Madison in May, 2024 with a B.S degre
 
 My research interest is in machine learning. Specifically, I am interested in data-efficient models and robust language models.
 
-Ph.D. applicant for Fall 2025.
+Ph.D at University of Wisconsin - Madison starting Fall 2025.
 
 <br>
 
