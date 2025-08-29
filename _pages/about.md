@@ -9,7 +9,7 @@ redirect_from:
 
 I graduated from University of Wisconsin - Madison in May, 2024 with a B.S degree, Honor in the Major, majoring computer science.
 
-My research interest is in machine learning. Specifically, I am interested in data-efficient models and robust language models.
+My research interest is in machine learning.
 
 Ph.D at University of Wisconsin - Madison starting Fall 2025.
 
