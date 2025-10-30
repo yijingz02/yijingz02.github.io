@@ -7,17 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from University of Wisconsin - Madison in May, 2024 with a B.S degree, Honor in the Major, majoring computer science.
+I am a first-year Ph.D. student in Computer Science at [University of Wisconsin–Madison](https://www.cs.wisc.edu/), supervised by Prof. [Misha Khodak](https://pages.cs.wisc.edu/~khodak/index.html), where I work on foundations and applications of machine learning. More recently, I have been working on scaling laws and methods for AI for scientific computing.
 
-My research interest is in machine learning.
-
-Ph.D at University of Wisconsin - Madison starting Fall 2025.
+Previously, I completed my B.S. in CS also at [University of Wisconsin–Madison](https://www.cs.wisc.edu/), where I had the honor to work with Prof. [Fred Sala](https://pages.cs.wisc.edu/~fredsala/) and Dr. [Pedro Morgado](https://pedro-morgado.github.io/).
 
 <br>
 
 News
 ======
 
+2025.09.03 | Started Ph.D. at [University of Wisconsin–Madison](https://www.cs.wisc.edu/)!
 2025.01.22 | Congratulations on [our paper](https://arxiv.org/abs/2503.01048) acceptance by NAACL 2025 Findings!
 2024.10.15 | First first-author conference submission to NAACL 2025! 
 2024.08.12 | Congratulations on [our paper](https://arxiv.org/abs/2403.05659) accepted as an **oral** presentation on ECCV 2024!
@@ -69,7 +68,7 @@ Resulting paper is in submission to ICLR 2025.
 
 Related Topic: NLP, Alignment. 
 
-## Project 4: P-AlignEZ (Personalized AlignEZ)
+## Project 4: CHAMELEON
 
 Supervised by [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), we worked on utilizing an AlignEZ approach for personalizing LLM. We found that P-ALignEZ is able to perform model larges-scale personalization for multi-users using low resource. Planned submission to ICML 2025.
 
@@ -80,10 +79,12 @@ Supervised by [Prof. Bach](https://cs.brown.edu/people/sbach/index.html) and [Pr
 
 <br>
 
-Work Experience
+Service
 ======
 
-<img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **Research Assistant** <br> Sep.2024 - Present
+<img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **Teaching Assistant** <br> Aug.2025 - Present
+
+<img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **Research Assistant** <br> Sep.2024 - May.2025
 
 <img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **CS400 Peer Mentor** <br> Jan.2022 - May.2024
 
