@@ -33,7 +33,7 @@ Publications
 [Personalize Your LLM: Fake it then Align it.](https://arxiv.org/abs/2503.01048) | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *NAACL 2025 Findings.*
 [Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> **Oral** *presentation by ECCV 2024.* [[Code]](https://github.com/lzhangbj/ASVA)
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *MINT@NeurIPS2024 Workshop.*
-[Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *ICML 2024 Workshop on NextGenAISafety.*
+[Can Language Models Safeguard Themselves, Instantly and For Free?](https://openreview.net/pdf?id=ALRWSxT1rl) | Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *ICML 2024 Workshop on NextGenAISafety.* 
 [Scaling Up Audio-Synchronized Visual Animation: An Efficient Training Paradigm.](https://arxiv.org/abs/2508.03955v1) | Lin Zhang, Zefan Cai, Yufan Zhou, Shentong Mo, Jinhong Lin, Cheng-En Wu, Yibing Wei, **Yijing Zhang**, Ruiyi Zhang, Wen Xiao, Tong Sun, Junjie Hu, Pedro Morgado.
 [Methods for Domain-specific Fine-tuning for Generative Models](files/Thesis.pdf)	| **Yijing Zhang**, Frederic Sala. <br> *Senior honor thesis, L&S Honors Program, University of Wisconsin - Madison.*
 
