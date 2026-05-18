@@ -30,7 +30,7 @@ News
 Publications
 ======
 
-[Breakeven complexity: A new perspective on neural partial differential equation solvers.](https://arxiv.org/abs/2605.15399) | **Yijing Zhang**, Nicholas Roberts, Tanya Marwah, Mikhail Khodak. \[[Code](https://github.com/yijingz02/breakeven_complexity)\] \[[Dataset](https://huggingface.co/datasets/yijingz/breakeven_complexity)\]
+[Breakeven complexity: A new perspective on neural partial differential equation solvers.](https://arxiv.org/abs/2605.15399) | **Yijing Zhang**, Nicholas Roberts, Tanya Marwah, Mikhail Khodak. \[[Code](https://github.com/yijingz02/breakeven_complexity)\] \[[Dataset](https://huggingface.co/datasets/yijingz/breakeven_complexity)\] <br> *Preprint.*
 [Personalize Your LLM: Fake it then Align it.](https://arxiv.org/abs/2503.01048) | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *NAACL 2025 Findings.*
 [Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> **Oral** *presentation by ECCV 2024.* [[Code]](https://github.com/lzhangbj/ASVA)
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *MINT@NeurIPS2024 Workshop.*
