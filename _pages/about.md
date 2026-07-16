@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Computer Science at [University of Wisconsin–Madison](https://www.cs.wisc.edu/), supervised by Prof. [Misha Khodak](https://pages.cs.wisc.edu/~khodak/index.html), where I work on foundations and applications of machine learning. More recently, I have been working on scaling laws and methods for AI for scientific computing.
+I am a Ph.D. student in Computer Science at [University of Wisconsin–Madison](https://www.cs.wisc.edu/), supervised by Prof. [Misha Khodak](https://pages.cs.wisc.edu/~khodak/index.html), where I work on foundations and applications of machine learning. More recently, I have been working on scaling laws and methods for AI for scientific computing.
 
 Previously, I completed my B.S. in CS also at [University of Wisconsin–Madison](https://www.cs.wisc.edu/), where I had the honor to work with Prof. [Fred Sala](https://pages.cs.wisc.edu/~fredsala/) and Dr. [Pedro Morgado](https://pedro-morgado.github.io/).
 
@@ -83,7 +83,7 @@ Supervised by [Prof. Bach](https://cs.brown.edu/people/sbach/index.html) and [Pr
 Service
 ======
 
-<img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **Teaching Assistant** <br> Aug.2025 - Present
+<img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **Teaching Assistant** <br> Aug.2025 - Dec. 2025
 
 <img src="./images/UWM.png" style="width:150px"> | ***University of Wisconsin - Madison*** <br> **Research Assistant** <br> Sep.2024 - May.2025
 
