@@ -16,7 +16,7 @@ Previously, I completed my B.S. in CS also at [University of Wisconsin–Madison
 News
 ======
 
-2026.06.30 | Check out the \[[Mixture of Experts]([https://github.com/yijingz02/breakeven_complexity](https://www.mixtureofexperts.co/p/the-breakeven-point-rethinking-ai))\] interview on our Breakeven paper!
+2026.06.30 | Check out the \[[Mixture of Experts](https://www.mixtureofexperts.co/p/the-breakeven-point-rethinking-ai))\] interview on our Breakeven paper!
 2025.09.03 | Started Ph.D. at [University of Wisconsin–Madison](https://www.cs.wisc.edu/)!
 2025.01.22 | Congratulations on [our paper](https://arxiv.org/abs/2503.01048) acceptance by NAACL 2025 Findings!
 2024.10.15 | First first-author conference submission to NAACL 2025! 
