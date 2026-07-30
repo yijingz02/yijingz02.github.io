@@ -16,6 +16,7 @@ Previously, I completed my B.S. in CS also at [University of Wisconsin–Madison
 News
 ======
 
+2026.06.30 | Check out the \[[Mixture of Experts]([https://github.com/yijingz02/breakeven_complexity](https://www.mixtureofexperts.co/p/the-breakeven-point-rethinking-ai))\] interview on our Breakeven paper!
 2025.09.03 | Started Ph.D. at [University of Wisconsin–Madison](https://www.cs.wisc.edu/)!
 2025.01.22 | Congratulations on [our paper](https://arxiv.org/abs/2503.01048) acceptance by NAACL 2025 Findings!
 2024.10.15 | First first-author conference submission to NAACL 2025! 
@@ -30,7 +31,7 @@ News
 Publications
 ======
 
-[Breakeven complexity: A new perspective on neural partial differential equation solvers.](https://arxiv.org/abs/2605.15399) | **Yijing Zhang**, Nicholas Roberts, Tanya Marwah, Mikhail Khodak. \[[Code](https://github.com/yijingz02/breakeven_complexity)\] \[[Dataset](https://huggingface.co/datasets/yijingz/breakeven_complexity)\] <br> *Preprint.*
+[Breakeven complexity: A new perspective on neural partial differential equation solvers.](https://arxiv.org/abs/2605.15399) | **Yijing Zhang**, Nicholas Roberts, Tanya Marwah, Mikhail Khodak. \[[Code](https://github.com/yijingz02/breakeven_complexity)\] \[[Dataset](https://huggingface.co/datasets/yijingz/breakeven_complexity)\] \[[Mixture of Experts]([https://github.com/yijingz02/breakeven_complexity](https://www.mixtureofexperts.co/p/the-breakeven-point-rethinking-ai))\] <br> *Preprint.*
 [Personalize Your LLM: Fake it then Align it.](https://arxiv.org/abs/2503.01048) | **Yijing Zhang**, Dyah Adila, Changho Shin, Frederic Sala. <br> *NAACL 2025 Findings.*
 [Audio-Guided Visual Animation](https://arxiv.org/abs/2403.05659)	| Lin Zhang, Shentong Mo, **Yijing Zhang**, Pedro Morgado. <br> **Oral** *presentation by ECCV 2024.* [[Code]](https://github.com/lzhangbj/ASVA)
 [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642)	| Dyah Adila, Changho Shin, **Yijing Zhang**, Frederic Sala. <br> *MINT@NeurIPS2024 Workshop.*
