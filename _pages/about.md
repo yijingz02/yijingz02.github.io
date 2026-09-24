@@ -16,7 +16,7 @@ Previously, I completed my B.S. in CS also at [University of Wisconsin–Madison
 News
 ======
 
-2026.09.24 | Our [Breakeven](https://arxiv.org/abs/2605.15399) got accepted by NeurIPS 2026 as an **oral** presentaion(Top 0.36%)!
+2026.09.24 | Our [Breakeven paper](https://arxiv.org/abs/2605.15399) got accepted by NeurIPS 2026 as an **oral** presentaion(Top 0.36%)!
 2026.06.30 | Check out the \[[Mixture of Experts](https://www.mixtureofexperts.co/p/the-breakeven-point-rethinking-ai)\] interview on our Breakeven paper!
 2025.09.03 | Started Ph.D. at [University of Wisconsin–Madison](https://www.cs.wisc.edu/)!
 2025.01.22 | Congratulations on [our paper](https://arxiv.org/abs/2503.01048) acceptance by NAACL 2025 Findings!
