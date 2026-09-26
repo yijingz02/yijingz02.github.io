@@ -236,10 +236,5 @@
   .personal-item {
     grid-template-columns: 1fr;
     gap: 1rem;
-
-    img {
-      height: auto;
-      max-height: 260px;
-    }
   }
 }

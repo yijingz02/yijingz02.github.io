@@ -11,8 +11,36 @@ var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
 var breaks = [];
+var mobileMode = false;
+var mobileQuery = window.matchMedia('(max-width: 600px)');
 
 function updateNav() {
+
+  // On phones, keep the masthead uncluttered by placing every page link in
+  // the menu. The site title remains visible as the home link.
+  if(mobileQuery.matches) {
+    if(!mobileMode) {
+      while($vlinks.children('*:not(.masthead__menu-item--lg)').length) {
+        $vlinks.children('*:not(.masthead__menu-item--lg)').last().prependTo($hlinks);
+      }
+      breaks = [];
+      mobileMode = true;
+    }
+
+    $btn.removeClass('hidden');
+    $btn.attr('count', $hlinks.children().length);
+    return;
+  }
+
+  // Restore the full list before recalculating the priority navigation when
+  // the viewport grows beyond the phone breakpoint.
+  if(mobileMode) {
+    $hlinks.children().appendTo($vlinks);
+    $hlinks.addClass('hidden');
+    $btn.addClass('hidden').removeClass('close').attr('aria-expanded', 'false');
+    breaks = [];
+    mobileMode = false;
+  }
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
@@ -67,6 +95,7 @@ $(window).resize(function() {
 $btn.on('click', function() {
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
+  $(this).attr('aria-expanded', $(this).hasClass('close'));
 });
 
 updateNav();
